@@ -19,6 +19,6 @@
    区块链   
    贸易安全
 ## 图片来源：
-   [1] http://e.nfu.edu.cn/pluginfile.php/7679/mod_folder/content/0/DonTapscott_2016T-480p-zh-cn.mp4
+   [1]# http://e.nfu.edu.cn/pluginfile.php/7679/mod_folder/content/0/DonTapscott_2016T-480p-zh-cn.mp4
 ## 参考视频：[2] https://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE/13465666?fr=aladdin
 			 [3] http://e.nfu.edu.cn/pluginfile.php/7679/mod_folder/content/0/ZeynepTufekci_2017G-480p-zh-cn.mp4
