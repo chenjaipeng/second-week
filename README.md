@@ -14,11 +14,12 @@
 很多平台都在贩卖我们的数据，我们的隐私，机器得到我们一个兴趣点，线上线下，数据收集，分析，算法得知。对给我们的推送或是视频会越来越接近这个“关键词”，而程度上会不断加深，内容上更极端，偏激[3]。平台除了贩卖我们的信息外，更严重的事左右了我们的抉择，就像facebook，在一个投票的贴文中做了一个小小的改变。加了一个缩略图，就是在上面显示你身边的亲朋好友都做了同一样事。
 一个小小的改变，对结果的影响是非常大的。
 ## 关键词：
-   面包屑   隐私
-   标记     贩卖
+   面包屑        隐私
+   标记          贩卖
    区块链   
    贸易安全
 ## 图片来源：
-   [1]# http://e.nfu.edu.cn/pluginfile.php/7679/mod_folder/content/0/DonTapscott_2016T-480p-zh-cn.mp4
-## 参考视频：[2] https://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE/13465666?fr=aladdin
-			 [3] http://e.nfu.edu.cn/pluginfile.php/7679/mod_folder/content/0/ZeynepTufekci_2017G-480p-zh-cn.mp4
+   ## [1] http://e.nfu.edu.cn/pluginfile.php/7679/mod_folder/content/0/DonTapscott_2016T-480p-zh-cn.mp4
+## 参考视频：
+   ## [2] https://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE/13465666?fr=aladdin
+   ## [3] http://e.nfu.edu.cn/pluginfile.php/7679/mod_folder/content/0/ZeynepTufekci_2017G-480p-zh-cn.mp4
