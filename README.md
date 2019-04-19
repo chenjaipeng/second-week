@@ -28,8 +28,8 @@
 ***
 ## 图片来源：[1]唐·泰普史考特：区块链将如何改变金钱与贸易<https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business?language=zh-cn>  
 ## 参考网站：区块链+安全性<http://v.baidu.com/watch/2108345445098939721.html?page=videoMultiNeed>  
-为了让人们点击广告，我们正在建造一个反乌托邦<https://www.bilibili.com/video/av18786583/>    
-Facebook泄露隐私<http://tech.qq.com/a/20180320/032157.htm>
+## 为了让人们点击广告，我们正在建造一个反乌托邦<https://www.bilibili.com/video/av18786583/>    
+## Facebook泄露隐私<http://tech.qq.com/a/20180320/032157.htm>
 
 
 			  
